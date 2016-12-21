@@ -13,17 +13,35 @@
 					<key>url</key>
 					<string>https://github.com/jiutianhuanpei/SHBApps/tree/master/Zhuishushenqi/追书神器.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://static.bbs.nubia.cn/forum/201501/14/220353inupwhme7jwe5q7w.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://static.bbs.nubia.cn/forum/201501/14/220353inupwhme7jwe5q7w.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.ifmoc.ZhuiShuShenQi</string>
 				<key>bundle-version</key>
-				<string>0.0.0</string>
+				<string>2.25.1</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>追书神器-定制版</string>
 				<key>title</key>
-				<string>测试</string>
+				<string>追书神器</string>
 			</dict>
 		</dict>
 	</array>
